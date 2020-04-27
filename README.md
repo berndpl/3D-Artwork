@@ -1,7 +1,7 @@
 # 3D-Artwork
-Abstracted rooms and items built for isometric renderings in Blender.
+Abstracted rooms and items built for isometric renderings in Blender. Trying to remember my findings over time in the Wiki [here](https://github.com/berndpl/3D-Artwork/wiki).
 
-Feel free to use this for inspiration and getting started. And don't forget your own learnings and explorations!
+Feel free to use this for inspiration and getting started. And don't forget too share your own learnings and explorations! 
 
 ## Home Office
 
